@@ -16,7 +16,7 @@ resources:
 - name: service-repo
   type: git
   source:
-    uri: https://github.com/akoranne/rulesengine.git
+    uri: https://github.com/ganeshgurusamy81/rulesengine.git
     branch: develop
 - name: deploy-dev-env
   type: cf
