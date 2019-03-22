@@ -17,7 +17,7 @@ resources:
   type: git
   source:
     uri: https://github.com/ganeshgurusamy81/rulesengine.git
-    branch: develop
+    branch: master
 - name: deploy-dev-env
   type: cf
   source:
